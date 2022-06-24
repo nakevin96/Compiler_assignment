@@ -1,0 +1,9 @@
+void helloWorld(int param[])
+{
+    int hello[100];
+    hello[102] = 10;
+    a[b[c[d[e]]]] = k;
+    3000/2000*100+10;
+    return 0;
+    if(a==0) if(b==0) c=0; else b=0;
+}
